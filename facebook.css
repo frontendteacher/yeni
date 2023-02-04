@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+header{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	width: 90%;
+}
+
+
+
+
+form{
+	width: 500px;
+	height: 100px;
+	text-align: center;
+}
+input{
+	width: 500px;
+	height: 40px;
+	background-color: #48526815;
+	font-family: candara;
+	border-color: gainsboro;
+	border: 0px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+#daxil{
+	width: 500px;
+	height: 30px;
+	color: white;
+	background-color:dodgerblue;
+	font-family: candara;
+	font-size: 15px;
+	border: 0px;
+	border-radius: 5px;
+}
+#sifre{
+	
+	width: 500px;
+	color: blue;
+	text-align: center;
+	font-family: candara;
+}
+hr{
+	width: 200px;
+	border-color: darkgray;
+	display: inline-block;
+
+}
+
+#hr{
+	width: 500px;
+	height: 50px;
+	text-align: center;
+}
+#qeyd{
+	width:500px;
+	height: 100px;
+	text-align: center
+}
+
+#qeyd1{
+	background-color: forestgreen;
+	font-family: candara;
+	width: 150px;
+	height: 30px;
+	border: 0px;
+	color: white;
+	font-size: 15px;
+	border-radius: 5px;
+	text-align: center;
+}
+#sekil{
+	margin-top: 5px;
+	margin-left: 10px;
+	
+}
+
+#face{
+margin-top: 20px;
+	color: blue;
+	font-family:candara;
+}
+
+
+
